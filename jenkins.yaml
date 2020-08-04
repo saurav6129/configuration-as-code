@@ -1,0 +1,7 @@
+jenkins:
+#system message : "Jenkinsconfigured automatically by Jenkins Configuration as Code"
+	systemMessage: "Hello Day of Jenkins.\n\n"
+	numExecuters: 1
+	mode: NORMAL
+	scmCheckoutRetryCount: 3
+	labelString: "master-label"
